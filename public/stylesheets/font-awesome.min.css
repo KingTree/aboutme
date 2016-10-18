@@ -7,3 +7,4 @@ a [class*=" icon-"]{display:inline;}
 .icon-github:before{content:"\f09b";}
 .icon-link:before{content:"\f0c1";}
 .icon-envelope:before{content:"\f0e0";}
+.icon-mobile-phone:before {content: "\f10b";}
