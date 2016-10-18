@@ -8,3 +8,5 @@ a [class*=" icon-"]{display:inline;}
 .icon-link:before{content:"\f0c1";}
 .icon-envelope:before{content:"\f0e0";}
 .icon-mobile-phone:before {content: "\f10b";}
+.icon-download-alt:before {content: "\f019";}
+
