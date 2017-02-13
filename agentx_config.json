@@ -1,0 +1,16 @@
+{
+  "server": "120.55.151.247:8080",
+  "appid": "3458",
+  "secret": "f810ce3d6cc5ae8ba2883c8ae91f1d0a4ae3177a",
+  "heartbeatInterval": 60,
+  "reconnectDelay": 10,
+  "reportInterval": 60,
+  "logdir": "/Users/sunil/myGitHub/aboutme/logs/",
+  "cmddir": "/Users/sunil/myGitHub/aliyun-node/commands",
+  "error_log": [
+    "/Users/sunil/myGitHub/aboutme/logserror.#YYYY#-#MM#-#DD#.log"
+  ],
+  "packages": [
+    "/Users/sunil/myGitHub/aboutme/package.json"
+  ]
+}
